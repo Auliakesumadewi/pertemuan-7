@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerMenuDialogandPickers aulia-e020320035</string>
+
+    <string-array name="fifa_2022">
+        <item></item>
+        <item>Inonesia</item>
+        <item>Kamboja</item>
+        <item>Netherlands</item>
+        <item>England</item>
+        <item>Iran</item>
+        <item>USA</item>
+        <item>Wales</item>
+        <item>Argentina</item>
+        <item>Saudi Arabia</item>
+
+    </string-array>
+</resources>
